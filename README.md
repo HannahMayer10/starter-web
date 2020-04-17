@@ -9,3 +9,6 @@ hello
 
 ##How to Contribute
 ljdflkajdlkfajlkdsfja
+
+##Copyright
+lkajdflkajldfjalsjflka
