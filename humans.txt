@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-asdfadsf
-    <name> -- <role> -- <twitter>
+Hannah Mayer 
+Kathie Munk 
 
 # THANKS
 asdfa
