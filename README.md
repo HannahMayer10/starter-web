@@ -12,6 +12,3 @@ adsfasdfadf
 
 ##How to Contribute
 This is a merge test
-
-##Copyright
-lkajdflkajldfjalsjflka
