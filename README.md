@@ -8,7 +8,7 @@ last Text
 hello
 
 ##How to Contribute
-ljdflkajdlkfajlkdsfja
+This is a merge test
 
 ##Copyright
 lkajdflkajldfjalsjflka
